@@ -9,17 +9,17 @@ dependencies:
   flutter:
     sdk: flutter
 
-  http: ^0.13.0
-  fluttertoast: ^8.0.8
-  webview_flutter: ^3.0.4
-  modal_bottom_sheet: ^2.1.0
-  flutter_inappwebview: ^5.7.2+3
+  http:
+  fluttertoast:
+  webview_flutter: ^4.7.0
+  modal_bottom_sheet: ^3.0.0
+  flutter_inappwebview: ^6.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  mockito: ^5.0.15
+  mockito:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
